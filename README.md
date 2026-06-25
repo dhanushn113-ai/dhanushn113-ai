@@ -227,22 +227,11 @@ HTML • CSS • JavaScript
 
 # 🐍 Contribution Snake
 
-```yaml
-# Create .github/workflows/snake.yml
+## 🐍 Contribution Snake
 
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhanushn113-ai/dhanushn113-ai/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 After creating the workflow, use:
 
