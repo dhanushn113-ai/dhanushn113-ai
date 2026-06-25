@@ -233,10 +233,6 @@ HTML • CSS • JavaScript
   <img src="https://raw.githubusercontent.com/dhanushn113-ai/dhanushn113-ai/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-After creating the workflow, use:
-
-https://github.com/Platane/snk
-
 ---
 
 # 💻 Coding Profiles
