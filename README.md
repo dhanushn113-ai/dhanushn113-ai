@@ -193,14 +193,6 @@ HTML • CSS • JavaScript
 
 ---
 
-# 🏆 GitHub Trophies
-
-## 🏆 GitHub Achievements
-
-https://github-profile-trophy.vercel.app/?username=dhanushn113-ai&theme=tokyonight&no-frame=true&row=1&column=7
-
----
-
 # 📊 GitHub Statistics
 
 <div align="center">
