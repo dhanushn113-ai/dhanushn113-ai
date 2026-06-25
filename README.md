@@ -227,7 +227,6 @@ HTML • CSS • JavaScript
 
 # 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dhanushn113-ai/dhanushn113-ai/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
