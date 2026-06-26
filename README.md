@@ -75,13 +75,23 @@ public class Dhanush {
 
 ---
 
-# 🚀 Current Focus
+## 🎯 Current Focus
 
-* 🌱 Learning Microservices Architecture
-* ☁️ Exploring AWS Cloud
-* 🐳 Learning Docker
-* 🔒 Advanced Spring Security
-* ⚡ Improving DSA & Problem Solving
+<p align="left">
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Advanced_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem_Solving-4CAF50?style=for-the-badge"/>
+
+</p>
+
+- 🌱 Deepening my expertise in **Spring Boot** and **MySQL**
+- ☕ Strengthening my **Advanced Java** concepts
+- 🧩 Practicing **Data Structures & Algorithms**
+- 💡 Solving coding problems consistently to improve problem-solving skills
+- 🚀 Building full-stack projects with clean architecture and RESTful APIs
 
 ---
 # 💻 Tech Stack
