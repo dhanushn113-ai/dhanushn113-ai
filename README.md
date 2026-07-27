@@ -296,9 +296,8 @@ HTML • CSS • JavaScript
 
 # 💡 Developer Quote
 
-> "Programs must be written for people to read, and only incidentally for machines to execute."
-
-— Harold Abelson
+"Success is the sum of small efforts, repeated day in and day out."
+— Robert Collier
 
 ---
 
