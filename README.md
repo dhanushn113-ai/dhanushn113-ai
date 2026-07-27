@@ -152,20 +152,22 @@ public class Dhanush {
 
 # 🚀 Featured Projects
 
-## 🍔 Online Food Ordering System
+## 🏦 Bank Management System
 
 ### Tech Stack
 
-Java • Spring Boot • Spring Security • MySQL • HTML • CSS • JavaScript
+Java • Spring Boot • Spring Security • Spring Data JPA • MySQL • HTML • CSS • JavaScript • Maven • Swagger
 
 ### Features
 
-* Secure Authentication
-* Role-Based Authorization
-* CRUD Operations
-* REST APIs
-* Responsive User Interface
-* Database Integration
+* Secure Authentication with Spring Security
+* Role-Based Access Control (Admin & User)
+* Customer Account Management
+* Deposit, Withdrawal, and Balance Inquiry
+* RESTful API Development
+* MySQL Database Integration using Spring Data JPA
+* Interactive API Testing with Swagger UI
+* Responsive and User-Friendly Interface
 
 ---
 
