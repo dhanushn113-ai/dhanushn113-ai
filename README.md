@@ -160,7 +160,7 @@ Java • Spring Boot • Spring Data JPA • Hibernate • MySQL • Spring Secu
 
 ### Features
 
-* Hotel and restaurant management
+* Hotel and restaurant management    
 * Secure user authentication and authorization
 * JWT-based authentication
 * RESTful API development
