@@ -231,7 +231,11 @@ HTML • CSS • JavaScript
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushn113-ai&theme=tokyo-night&hide_border=true&area=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/2f81f7/dhanushn113-ai">
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/40c463/dhanushn113-ai">
+  <img src="https://ghchart.rshah.org/40c463/dhanushn113-ai" alt="Dhanush's GitHub Contribution Graph">
+</picture>
 
 </div>
 
