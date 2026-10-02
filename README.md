@@ -152,6 +152,31 @@ public class Dhanush {
 
 # 🚀 Featured Projects
 
+## 🏨 HotelZone – Full Stack Hotel Management System
+
+### Tech Stack
+
+Java • Spring Boot • Spring Data JPA • Hibernate • MySQL • Spring Security • JWT • React • JavaScript • Maven • REST APIs
+
+### Features
+
+* Hotel and restaurant management
+* Secure user authentication and authorization
+* JWT-based authentication
+* RESTful API development
+* CRUD operations using Spring Data JPA
+* MySQL database integration
+* Role-based access control
+* Backend and frontend integration
+* Responsive and user-friendly interface
+* Deployed backend using Render
+
+### 🔗 Links
+
+[🌐 Live Demo](https://hotelzone-fullstack.onrender.com) • [💻 GitHub Repository](https://github.com/dhanushn113-ai/HotelZone-FullStack)
+
+---
+
 ## 🏦 Bank Management System
 
 ### Tech Stack
@@ -182,10 +207,9 @@ HTML • CSS • JavaScript
 * Responsive Layout
 * Dynamic Content Display
 * Interactive Navigation
-* Netflix Inspired UI
-* Mobile Friendly Design
+* Netflix-Inspired UI
+* Mobile-Friendly Design
 
----
 
 # 🎓 Education
 
